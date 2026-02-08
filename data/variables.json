@@ -1,0 +1,830 @@
+[
+  {
+    "name": "--16-9",
+    "category": "dimension",
+    "description": "16 9 (from Object Fit Classes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--3xl",
+    "category": "functions",
+    "description": "3xl (from fluid() Function | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--accent",
+    "category": "colors",
+    "description": "Accent (from Global Divider System | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--another",
+    "category": "buttons-links",
+    "description": "Another (from Auto Button Styling & Exclusions | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--background",
+    "category": "recipes",
+    "description": "Background (from Overlap Recipes | Automatic CSS Documentation)",
+    "defaultValue": "url(/wp-content/uploads/geometric-leaves.webp) top / 200px repeat",
+    "deprecated": false
+  },
+  {
+    "name": "--base-dark",
+    "category": "colors",
+    "description": "Base Dark (from Variables: The Real Power of ACSS | Automatic CSS Documentation)",
+    "defaultValue": "var(--secondary)",
+    "deprecated": false
+  },
+  {
+    "name": "--base-light-trans-40",
+    "category": "colors",
+    "description": "Base Light Trans 40 (from Overlay Classes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--bg",
+    "category": "colors",
+    "description": "Bg (from Inverted Radius Framework | Automatic CSS Documentation)",
+    "defaultValue": "var(--primary-light)",
+    "deprecated": false
+  },
+  {
+    "name": "--bg-light",
+    "category": "colors",
+    "description": "Bg Light (from Transition | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--bg-ultra-dark",
+    "category": "colors",
+    "description": "Bg Ultra Dark (from Automatic Color Relationships | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--black-trans-10",
+    "category": "colors",
+    "description": "Black Trans 10 (from Overlap Recipes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--border",
+    "category": "borders",
+    "description": "Border (from Global Border System | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--border-light",
+    "category": "borders",
+    "description": "Border Light (from Global Border System | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--border-style",
+    "category": "borders",
+    "description": "Border Style (from Global Border System | Automatic CSS Documentation)",
+    "defaultValue": "dashed",
+    "deprecated": false
+  },
+  {
+    "name": "--border-width",
+    "category": "borders",
+    "description": "Border Width (from Global Border System | Automatic CSS Documentation)",
+    "defaultValue": "5px",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-background",
+    "category": "buttons",
+    "description": "Btn Background (from Buttons & Links | Automatic CSS Documentation)",
+    "defaultValue": "var(--primary-dark)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-background-hover",
+    "category": "buttons",
+    "description": "Btn Background Hover (from Buttons & Links | Automatic CSS Documentation)",
+    "defaultValue": "var(--primary-ultra-dark)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-border-radius",
+    "category": "buttons",
+    "description": "Btn Border Radius (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-border-style",
+    "category": "buttons",
+    "description": "Btn Border Style (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-border-width",
+    "category": "buttons",
+    "description": "Btn Border Width (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-font-size",
+    "category": "typography",
+    "description": "Btn Font Size (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-font-style",
+    "category": "typography",
+    "description": "Btn Font Style (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-font-weight",
+    "category": "typography",
+    "description": "Btn Font Weight (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-letter-spacing",
+    "category": "typography",
+    "description": "Btn Letter Spacing (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-line-height",
+    "category": "typography",
+    "description": "Btn Line Height (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-min-width",
+    "category": "buttons",
+    "description": "Btn Min Width (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-outline-border-width",
+    "category": "buttons",
+    "description": "Btn Outline Border Width (from Gradient Outline Buttons | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-padding-block",
+    "category": "spacing",
+    "description": "Btn Padding Block (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-padding-inline",
+    "category": "spacing",
+    "description": "Btn Padding Inline (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-text-decoration",
+    "category": "typography",
+    "description": "Btn Text Decoration (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-text-transform",
+    "category": "typography",
+    "description": "Btn Text Transform (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--btn-transition-duration",
+    "category": "colors",
+    "description": "Btn Transition Duration (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--card-gap",
+    "category": "spacing",
+    "description": "Card Gap (from Card Framework | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--card-heading-size",
+    "category": "typography",
+    "description": "Card Heading Size (from Card Container Recipe | Automatic CSS Documentation)",
+    "defaultValue": "var(--h2)",
+    "deprecated": false
+  },
+  {
+    "name": "--card-media-aspect-ratio",
+    "category": "recipes",
+    "description": "Card Media Aspect Ratio (from Card Container Recipe | Automatic CSS Documentation)",
+    "defaultValue": "4/3",
+    "deprecated": false
+  },
+  {
+    "name": "--card-padding",
+    "category": "spacing",
+    "description": "Card Padding (from Card Framework | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--center-right",
+    "category": "dimension",
+    "description": "Center Right (from Object Fit Classes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--content-gap",
+    "category": "spacing",
+    "description": "Content Gap (from Calc() | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--content-width",
+    "category": "containers",
+    "description": "Content Width (from Content Width | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--content-width-safe",
+    "category": "containers",
+    "description": "Content Width Safe (from Content Width (Safe) | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--cover",
+    "category": "dimension",
+    "description": "Cover (from Object Fit Classes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--divider",
+    "category": "borders-dividers",
+    "description": "Divider (from Global Divider System | Automatic CSS Documentation)",
+    "defaultValue": "var(--divider-size) var(--divider-style) var(--accent)",
+    "deprecated": false
+  },
+  {
+    "name": "--divider-color-dark",
+    "category": "borders-dividers",
+    "description": "Divider Color Dark (from Global Divider System | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--divider-dark",
+    "category": "borders-dividers",
+    "description": "Divider Dark (from Global Divider System | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--divider-inline-size",
+    "category": "borders-dividers",
+    "description": "Divider Inline Size (from Global Divider System | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--divider-size",
+    "category": "borders-dividers",
+    "description": "Divider Size (from Global Divider System | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--divider-style",
+    "category": "borders-dividers",
+    "description": "Divider Style (from Global Divider System | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--fade-amount",
+    "category": "masks",
+    "description": "Fade Amount (from Gradient Fades | Automatic CSS Documentation)",
+    "defaultValue": "35%",
+    "deprecated": false
+  },
+  {
+    "name": "--feature-max-width",
+    "category": "grids",
+    "description": "Feature Max Width (from Content Grid | Automatic CSS Documentation)",
+    "defaultValue": "75px",
+    "deprecated": false
+  },
+  {
+    "name": "--feature-width",
+    "category": "grids",
+    "description": "Feature Width (from Content Grid | Automatic CSS Documentation)",
+    "defaultValue": "75px",
+    "deprecated": false
+  },
+  {
+    "name": "--focus-color",
+    "category": "accessibility",
+    "description": "Focus Color (from Focus Parent | Automatic CSS Documentation)",
+    "defaultValue": "[new-value]",
+    "deprecated": false
+  },
+  {
+    "name": "--focus-offset",
+    "category": "accessibility",
+    "description": "Focus Offset (from Focus Parent | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--focus-width",
+    "category": "accessibility",
+    "description": "Focus Width (from Focus Parent | Automatic CSS Documentation)",
+    "defaultValue": "[new-value]",
+    "deprecated": false
+  },
+  {
+    "name": "--gradient-angle",
+    "category": "buttons-links",
+    "description": "Gradient Angle (from Gradient Outline Buttons | Automatic CSS Documentation)",
+    "defaultValue": "45deg",
+    "deprecated": false
+  },
+  {
+    "name": "--gradient-color-1",
+    "category": "buttons-links",
+    "description": "Gradient Color 1 (from Gradient Outline Buttons | Automatic CSS Documentation)",
+    "defaultValue": "var(--secondary)",
+    "deprecated": false
+  },
+  {
+    "name": "--gradient-color-2",
+    "category": "buttons-links",
+    "description": "Gradient Color 2 (from Gradient Outline Buttons | Automatic CSS Documentation)",
+    "defaultValue": "var(--primary)",
+    "deprecated": false
+  },
+  {
+    "name": "--gradient-transition",
+    "category": "colors",
+    "description": "Gradient Transition (from Gradient Outline Buttons | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--grid-2",
+    "category": "containers",
+    "description": "Grid 2 (from Grid Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--grid-2-3",
+    "category": "containers",
+    "description": "Grid 2 3 (from Card Container Recipe | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--grid-3",
+    "category": "containers",
+    "description": "Grid 3 (from Grid Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--grid-auto-4",
+    "category": "containers",
+    "description": "Grid Auto 4 (from Auto Grids | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--grid-gap",
+    "category": "spacing",
+    "description": "Grid Gap (from Content Grid | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--gutter",
+    "category": "grids",
+    "description": "Gutter (from Content Grid | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--h1",
+    "category": "typography",
+    "description": "H1 (from Typography Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--h1-hero",
+    "category": "typography",
+    "description": "H1 Hero (from fluid() Function | Automatic CSS Documentation)",
+    "defaultValue": "#{fluid(28,60)",
+    "deprecated": false
+  },
+  {
+    "name": "--h2",
+    "category": "typography",
+    "description": "H2 (from Card Container Recipe | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--h4",
+    "category": "typography",
+    "description": "H4 (from Typography Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--heading-color",
+    "category": "typography",
+    "description": "Heading Color (from Typography Variables | Automatic CSS Documentation)",
+    "defaultValue": "var(--accent)",
+    "deprecated": false
+  },
+  {
+    "name": "--heading-font-family",
+    "category": "typography",
+    "description": "Heading Font Family (from Typography Variables | Automatic CSS Documentation)",
+    "defaultValue": "\"Birthstone\", cursive",
+    "deprecated": false
+  },
+  {
+    "name": "--heading-letter-spacing",
+    "category": "typography",
+    "description": "Heading Letter Spacing (from Typography Variables | Automatic CSS Documentation)",
+    "defaultValue": "0.0125em",
+    "deprecated": false
+  },
+  {
+    "name": "--heading-line-height",
+    "category": "typography",
+    "description": "Heading Line Height (from Typography Variables | Automatic CSS Documentation)",
+    "defaultValue": "calc(6px + 2ex)",
+    "deprecated": false
+  },
+  {
+    "name": "--inverted-radius-1-position",
+    "category": "borders",
+    "description": "Inverted Radius 1 Position (from Inverted Radius Framework | Automatic CSS Documentation)",
+    "defaultValue": "var(--position-top-right-outside)",
+    "deprecated": false
+  },
+  {
+    "name": "--inverted-radius-1-shadow",
+    "category": "borders",
+    "description": "Inverted Radius 1 Shadow (from Inverted Radius Framework | Automatic CSS Documentation)",
+    "defaultValue": "var(--shadow-bottom-left)",
+    "deprecated": false
+  },
+  {
+    "name": "--inverted-radius-1-slice",
+    "category": "borders",
+    "description": "Inverted Radius 1 Slice (from Inverted Radius Framework | Automatic CSS Documentation)",
+    "defaultValue": "var(--slice-bottom-left)",
+    "deprecated": false
+  },
+  {
+    "name": "--min",
+    "category": "grids",
+    "description": "Min (from Auto Grids | Automatic CSS Documentation)",
+    "defaultValue": "280px",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color",
+    "category": "colors",
+    "description": "My Color (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{hex value",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-b",
+    "category": "colors",
+    "description": "My Color B (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{b-value",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-g",
+    "category": "colors",
+    "description": "My Color G (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{g-value",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-h",
+    "category": "colors",
+    "description": "My Color H (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{h-value",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-hex",
+    "category": "colors",
+    "description": "My Color Hex (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{hex value",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-hsl",
+    "category": "colors",
+    "description": "My Color Hsl (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{hsl string",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-l",
+    "category": "colors",
+    "description": "My Color L (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{l-value",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-light",
+    "category": "colors",
+    "description": "My Color Light (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "hsl(var(--my-color-h) var(--my-color-s) 82%)",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-r",
+    "category": "colors",
+    "description": "My Color R (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{r-value",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-rgb",
+    "category": "colors",
+    "description": "My Color Rgb (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{rgb-string",
+    "deprecated": false
+  },
+  {
+    "name": "--my-color-s",
+    "category": "colors",
+    "description": "My Color S (from Palette Setup | Automatic CSS Documentation)",
+    "defaultValue": "{s-value",
+    "deprecated": false
+  },
+  {
+    "name": "--my-custom-value",
+    "category": "functions",
+    "description": "My Custom Value (from ctr() Function | Automatic CSS Documentation)",
+    "defaultValue": "#{$my-custom-value",
+    "deprecated": false
+  },
+  {
+    "name": "--object-fit",
+    "category": "dimension",
+    "description": "Object Fit (from Auto Object Fit | Automatic CSS Documentation)",
+    "defaultValue": "contain",
+    "deprecated": false
+  },
+  {
+    "name": "--outline",
+    "category": "buttons-links",
+    "description": "Outline (from Button Mixins | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--overlay",
+    "category": "recipes",
+    "description": "Overlay (from Overlap Recipes | Automatic CSS Documentation)",
+    "defaultValue": "linear-gradient(var(--black-trans-10), var(--black-trans-10))",
+    "deprecated": false
+  },
+  {
+    "name": "--position-top-right-outside",
+    "category": "borders-dividers",
+    "description": "Position Top Right Outside (from Inverted Radius Framework | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary",
+    "category": "colors",
+    "description": "Primary (from Background Color Classes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-dark",
+    "category": "colors",
+    "description": "Primary Dark (from Buttons & Links | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-h",
+    "category": "colors",
+    "description": "Primary H (from Calc() | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-l",
+    "category": "colors",
+    "description": "Primary L (from Calc() | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-light",
+    "category": "colors",
+    "description": "Primary Light (from Background Color Classes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-light-trans-20",
+    "category": "colors",
+    "description": "Primary Light Trans 20 (from Overlay Classes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-medium",
+    "category": "colors",
+    "description": "Primary Medium (from Button Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-s",
+    "category": "colors",
+    "description": "Primary S (from Calc() | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-trans-20",
+    "category": "colors",
+    "description": "Primary Trans 20 (from Background Color Classes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-trans-30",
+    "category": "colors",
+    "description": "Primary Trans 30 (from Overlap Recipes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-trans-5",
+    "category": "colors",
+    "description": "Primary Trans 5 (from Calc() | Automatic CSS Documentation)",
+    "defaultValue": "hsl(var(--primary-h) calc(var(--primary-s) / .2) var(--primary-l))",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-ultra-dark",
+    "category": "colors",
+    "description": "Primary Ultra Dark (from Buttons & Links | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-ultra-dark-trans-20",
+    "category": "colors",
+    "description": "Primary Ultra Dark Trans 20 (from Background Color Classes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--primary-ultra-light",
+    "category": "colors",
+    "description": "Primary Ultra Light (from Ribbons | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--radius",
+    "category": "borders",
+    "description": "Radius (from Global Border System | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--radius-l",
+    "category": "borders",
+    "description": "Radius L (from Border Mixin | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--ribbon-background-color",
+    "category": "elements",
+    "description": "Ribbon Background Color (from Ribbons | Automatic CSS Documentation)",
+    "defaultValue": "var(--primary)",
+    "deprecated": false
+  },
+  {
+    "name": "--ribbon-shadow",
+    "category": "shadows",
+    "description": "Ribbon Shadow (from Ribbons | Automatic CSS Documentation)",
+    "defaultValue": "0 0 30px -3px var(--primary-ultra-dark-trans-20)",
+    "deprecated": false
+  },
+  {
+    "name": "--ribbon-text-color",
+    "category": "typography",
+    "description": "Ribbon Text Color (from Ribbons | Automatic CSS Documentation)",
+    "defaultValue": "var(--primary-ultra-light)",
+    "deprecated": false
+  },
+  {
+    "name": "--sale",
+    "category": "elements",
+    "description": "Sale (from Ribbons | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--secondary",
+    "category": "colors",
+    "description": "Secondary (from Gradient Outline Buttons | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--secondary-trans-30",
+    "category": "colors",
+    "description": "Secondary Trans 30 (from Overlap Recipes | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--secondary-ultra-dark",
+    "category": "colors",
+    "description": "Secondary Ultra Dark (from Variables: The Real Power of ACSS | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--section-space-l",
+    "category": "spacing",
+    "description": "Section Space L (from Section Spacing Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--section-space-m",
+    "category": "spacing",
+    "description": "Section Space M (from Section Spacing Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--section-space-xl",
+    "category": "spacing",
+    "description": "Section Space Xl (from Section Spacing Variables | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--shadow-bottom-left",
+    "category": "shadows",
+    "description": "Shadow Bottom Left (from Inverted Radius Framework | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--slice-bottom-left",
+    "category": "borders-dividers",
+    "description": "Slice Bottom Left (from Inverted Radius Framework | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--space-l",
+    "category": "spacing",
+    "description": "Space L (from Transition | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--space-m",
+    "category": "spacing",
+    "description": "Space M (from Gap Utilities | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--text-dark",
+    "category": "typography",
+    "description": "Text Dark (from Transition | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--third-party-example",
+    "category": "buttons-links",
+    "description": "Third Party Example (from Auto Button Styling & Exclusions | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--transition",
+    "category": "colors",
+    "description": "Transition (from Transition | Automatic CSS Documentation)",
+    "defaultValue": "all .8s ease 0s",
+    "deprecated": false
+  },
+  {
+    "name": "--transition-delay",
+    "category": "colors",
+    "description": "Transition Delay (from Transition | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--transition-duration",
+    "category": "colors",
+    "description": "Transition Duration (from Gradient Outline Buttons | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--transition-timing",
+    "category": "colors",
+    "description": "Transition Timing (from Gradient Outline Buttons | Automatic CSS Documentation)",
+    "deprecated": false
+  },
+  {
+    "name": "--ultra-dark",
+    "category": "colors",
+    "description": "Ultra Dark (from Automatic Color Relationships | Automatic CSS Documentation)",
+    "defaultValue": "nth-child(2 of [class*=\"btn--\"]) {    @include btn(secondary)",
+    "deprecated": false
+  },
+  {
+    "name": "--white",
+    "category": "colors",
+    "description": "White (from Variables: The Real Power of ACSS | Automatic CSS Documentation)",
+    "defaultValue": "var(--secondary-ultra-dark)",
+    "deprecated": false
+  },
+  {
+    "name": "--yet-another",
+    "category": "buttons-links",
+    "description": "Yet Another (from Auto Button Styling & Exclusions | Automatic CSS Documentation)",
+    "deprecated": false
+  }
+]

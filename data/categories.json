@@ -1,0 +1,821 @@
+[
+  {
+    "slug": "accessibility",
+    "name": "Accessibility",
+    "pageCount": 6,
+    "pages": [
+      {
+        "slug": "accessibility/clickable-parent",
+        "title": "Clickable Parent | Automatic CSS Documentation"
+      },
+      {
+        "slug": "accessibility/focus-classes",
+        "title": "Focus Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "accessibility/focus-parent",
+        "title": "Focus Parent | Automatic CSS Documentation"
+      },
+      {
+        "slug": "accessibility/global-focus-styling",
+        "title": "Global Focus Styling | Automatic CSS Documentation"
+      },
+      {
+        "slug": "accessibility/hidden-accessible-class",
+        "title": "Hidden Accessible Class | Automatic CSS Documentation"
+      },
+      {
+        "slug": "accessibility/reduce-motion",
+        "title": "Reduce Motion | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "backgrounds",
+    "name": "Backgrounds",
+    "pageCount": 2,
+    "pages": [
+      {
+        "slug": "backgrounds/background-color-classes",
+        "title": "Background Color Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "backgrounds/is-background-is-bg",
+        "title": "“Is Background” (.is-bg) | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "borders-dividers",
+    "name": "Borders Dividers",
+    "pageCount": 3,
+    "pages": [
+      {
+        "slug": "borders-dividers/global-border-system",
+        "title": "Global Border System | Automatic CSS Documentation"
+      },
+      {
+        "slug": "borders-dividers/global-divider-system",
+        "title": "Global Divider System | Automatic CSS Documentation"
+      },
+      {
+        "slug": "borders-dividers/inverted-radius-framework",
+        "title": "Inverted Radius Framework | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "builder-configuration",
+    "name": "Builder Configuration",
+    "pageCount": 6,
+    "pages": [
+      {
+        "slug": "builder-configuration/acss-generatepress-generateblocks-setup",
+        "title": "ACSS & GeneratePress & GenerateBlocks Setup | Automatic CSS Documentation"
+      },
+      {
+        "slug": "builder-configuration/acss-gutenberg-setup",
+        "title": "ACSS & Gutenberg Setup | Automatic CSS Documentation"
+      },
+      {
+        "slug": "builder-configuration/how-to-setup-acss-with-bricks-builder",
+        "title": "ACSS & Bricks Builder Setup | Automatic CSS Documentation"
+      },
+      {
+        "slug": "builder-configuration/setting-up-acss-with-breakdance",
+        "title": "ACSS & Breakdance Setup | Automatic CSS Documentation"
+      },
+      {
+        "slug": "builder-configuration/setting-up-acss-with-cwicly",
+        "title": "ACSS & Cwicly Setup | Automatic CSS Documentation"
+      },
+      {
+        "slug": "builder-configuration/setting-up-acss-with-oxygen",
+        "title": "ACSS & Oxygen Builder Setup | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "buttons-links",
+    "name": "Buttons Links",
+    "pageCount": 11,
+    "pages": [
+      {
+        "slug": "buttons-links/auto-button-styling-exclusions",
+        "title": "Auto Button Styling & Exclusions | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/button-classes",
+        "title": "Button Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/button-mixins",
+        "title": "Button Mixins | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/button-recipes",
+        "title": "Button Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/button-variables",
+        "title": "Button Variables | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/buttons",
+        "title": "Buttons & Links | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/external-link-indication",
+        "title": "External Link Indication | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/gradient-outline-buttons",
+        "title": "Gradient Outline Buttons | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/links",
+        "title": "Link Styling | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/outline-buttons",
+        "title": "Outline Buttons | Automatic CSS Documentation"
+      },
+      {
+        "slug": "buttons-links/transition",
+        "title": "Transition | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "cards",
+    "name": "Cards",
+    "pageCount": 1,
+    "pages": [
+      {
+        "slug": "cards/card-framework",
+        "title": "Card Framework | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "colors",
+    "name": "Colors",
+    "pageCount": 6,
+    "pages": [
+      {
+        "slug": "colors/automatic-color-relationships",
+        "title": "Automatic Color Relationships | Automatic CSS Documentation"
+      },
+      {
+        "slug": "colors/background-text-assignments",
+        "title": "Background & Text Assignments | Automatic CSS Documentation"
+      },
+      {
+        "slug": "colors/color-scheme-dark-mode",
+        "title": "Color Scheme (Dark Mode) | Automatic CSS Documentation"
+      },
+      {
+        "slug": "colors/palette-setup",
+        "title": "Palette Setup | Automatic CSS Documentation"
+      },
+      {
+        "slug": "colors/selection-styling",
+        "title": "Selection Styling | Automatic CSS Documentation"
+      },
+      {
+        "slug": "colors/semantic-colors",
+        "title": "Semantic Colors | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "columns",
+    "name": "Columns",
+    "pageCount": 2,
+    "pages": [
+      {
+        "slug": "columns/css-columns",
+        "title": "CSS Columns | Automatic CSS Documentation"
+      },
+      {
+        "slug": "columns/masonry-layouts",
+        "title": "Masonry Layouts | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "dimension",
+    "name": "Dimension",
+    "pageCount": 11,
+    "pages": [
+      {
+        "slug": "dimension/aspect-ratio-classes",
+        "title": "Aspect Ratio Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/auto-object-fit",
+        "title": "Auto Object Fit | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/boxed-layout",
+        "title": "Boxed Layout | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/breakout-classes",
+        "title": "Breakout Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/content-width",
+        "title": "Content Width | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/content-width-safe",
+        "title": "Content Width (Safe) | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/header-height",
+        "title": "Header Height | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/height-classes",
+        "title": "Height Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/object-fit-classes",
+        "title": "Object Fit Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/scroll-offsets",
+        "title": "Scroll Offset | Automatic CSS Documentation"
+      },
+      {
+        "slug": "dimension/width-utilities",
+        "title": "Width Utilities | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "display-visibility",
+    "name": "Display Visibility",
+    "pageCount": 4,
+    "pages": [
+      {
+        "slug": "display-visibility/display-classes",
+        "title": "Display Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "display-visibility/flip-classes",
+        "title": "Flip Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "display-visibility/opacity-classes",
+        "title": "Opacity Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "display-visibility/visibility-classes",
+        "title": "Visibility Classes | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "elements",
+    "name": "Elements",
+    "pageCount": 1,
+    "pages": [
+      {
+        "slug": "elements/ribbons",
+        "title": "Ribbons | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "flexbox",
+    "name": "Flexbox",
+    "pageCount": 3,
+    "pages": [
+      {
+        "slug": "flexbox/flex-grids-flexbox-grids",
+        "title": "“Flex Grids” (Flexbox Grids) | Automatic CSS Documentation"
+      },
+      {
+        "slug": "flexbox/flex-recipes",
+        "title": "Flex Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "flexbox/flexbox-classes",
+        "title": "Flexbox Classes | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "forms",
+    "name": "Forms",
+    "pageCount": 1,
+    "pages": [
+      {
+        "slug": "forms/form-styling-basics",
+        "title": "Form Styling Basics | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "functions",
+    "name": "Functions",
+    "pageCount": 6,
+    "pages": [
+      {
+        "slug": "functions/calc",
+        "title": "Calc() | Automatic CSS Documentation"
+      },
+      {
+        "slug": "functions/ctr",
+        "title": "ctr() Function | Automatic CSS Documentation"
+      },
+      {
+        "slug": "functions/fluid-function",
+        "title": "fluid() Function | Automatic CSS Documentation"
+      },
+      {
+        "slug": "functions/percent-function",
+        "title": "percent() Function | Automatic CSS Documentation"
+      },
+      {
+        "slug": "functions/pow-function",
+        "title": "pow() Function | Automatic CSS Documentation"
+      },
+      {
+        "slug": "functions/rem-function",
+        "title": "rem() Function | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "fundamentals",
+    "name": "Fundamentals",
+    "pageCount": 8,
+    "pages": [
+      {
+        "slug": "fundamentals/deprecated-features",
+        "title": "Deprecated Features | Automatic CSS Documentation"
+      },
+      {
+        "slug": "fundamentals/how-to-use-a-utility-class",
+        "title": "How to Use a Utility Class | Automatic CSS Documentation"
+      },
+      {
+        "slug": "fundamentals/ids-vs-classes-vs-utility-classes",
+        "title": "IDs vs. Classes vs. Utility Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "fundamentals/pro-mode-and-classless-workflow",
+        "title": "Pro Mode & Classless Workflow | Automatic CSS Documentation"
+      },
+      {
+        "slug": "fundamentals/t-shirt-sizes-for-enhanced-simplicity",
+        "title": "“T-Shirt Sizes” for Enhanced Simplicity & Consistency | Automatic CSS Documentation"
+      },
+      {
+        "slug": "fundamentals/utility-classes-what-why",
+        "title": "Utility Classes: What & Why | Automatic CSS Documentation"
+      },
+      {
+        "slug": "fundamentals/variables",
+        "title": "Variables: The Real Power of ACSS | Automatic CSS Documentation"
+      },
+      {
+        "slug": "fundamentals/when-not-to-use-utility-classes",
+        "title": "When Not to Use Utility Classes | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "general",
+    "name": "General",
+    "pageCount": 2,
+    "pages": [
+      {
+        "slug": "recipes",
+        "title": "Introduction to Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "textures-overlays",
+        "title": "Textures & Overlays | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "grids",
+    "name": "Grids",
+    "pageCount": 8,
+    "pages": [
+      {
+        "slug": "grids/auto-alternating-grids",
+        "title": "Auto Alternating Grids | Automatic CSS Documentation"
+      },
+      {
+        "slug": "grids/auto-grid-mixin",
+        "title": "Auto Grid Mixin | Automatic CSS Documentation"
+      },
+      {
+        "slug": "grids/auto-grids",
+        "title": "Auto Grids | Automatic CSS Documentation"
+      },
+      {
+        "slug": "grids/content-grid",
+        "title": "Content Grid | Automatic CSS Documentation"
+      },
+      {
+        "slug": "grids/grid-classes-standard",
+        "title": "Grid Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "grids/grid-variables",
+        "title": "Grid Variables | Automatic CSS Documentation"
+      },
+      {
+        "slug": "grids/masonry-layouts",
+        "title": "Masonry Layouts | Automatic CSS Documentation"
+      },
+      {
+        "slug": "grids/variable-grid",
+        "title": "Variable Grids | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "icons",
+    "name": "Icons",
+    "pageCount": 2,
+    "pages": [
+      {
+        "slug": "icons/icon-framework",
+        "title": "Icon Framework | Automatic CSS Documentation"
+      },
+      {
+        "slug": "icons/icon-mixin",
+        "title": "Icon Mixin | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "layout",
+    "name": "Layout",
+    "pageCount": 3,
+    "pages": [
+      {
+        "slug": "layout/centering-classes",
+        "title": "Centering Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "layout/flexbox-classes",
+        "title": "Flexbox Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "layout/flip-classes",
+        "title": "Centering Classes | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "masks",
+    "name": "Masks",
+    "pageCount": 1,
+    "pages": [
+      {
+        "slug": "masks/gradient-fades",
+        "title": "Gradient Fades | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "mixins",
+    "name": "Mixins",
+    "pageCount": 15,
+    "pages": [
+      {
+        "slug": "mixins/auto-grid-mixin",
+        "title": "Auto Grid Mixin | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/border-mixin",
+        "title": "Border Mixin | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/breakpoint-mixins",
+        "title": "Breakpoint Mixins | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/button-mixins",
+        "title": "Button Mixins | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/card-container-mixin",
+        "title": "Card Container Mixin | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/centering-mixin",
+        "title": "Centering Mixin | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/clickable-parent",
+        "title": "Clickable Parent | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/content-grid-mixin",
+        "title": "Content Grid Mixin | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/focus-parent",
+        "title": "Focus Parent | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/gradient-fades",
+        "title": "Gradient Fades | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/heading-text-style-mixins",
+        "title": "Heading & Text Style Mixins | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/icon-mixin",
+        "title": "Icon Mixin | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/line-clamp-utilities",
+        "title": "Line Clamp Utilities | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/texture-overlay-mixins",
+        "title": "Texture & Overlay Mixins | Automatic CSS Documentation"
+      },
+      {
+        "slug": "mixins/what-are-mixins",
+        "title": "What are Mixins? | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "overlays",
+    "name": "Overlays",
+    "pageCount": 1,
+    "pages": [
+      {
+        "slug": "overlays/overlay-classes",
+        "title": "Overlay Classes | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "position-zindex",
+    "name": "Position Zindex",
+    "pageCount": 3,
+    "pages": [
+      {
+        "slug": "position-zindex/position-classes",
+        "title": "Position Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "position-zindex/sticky-classes",
+        "title": "Sticky Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "position-zindex/z-index-classes",
+        "title": "Z-Index Classes | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "recipes",
+    "name": "Recipes",
+    "pageCount": 19,
+    "pages": [
+      {
+        "slug": "recipes/accessibility-recipes",
+        "title": "Accessibility Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/border-radius-recipes",
+        "title": "Border Radius Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/button-recipes",
+        "title": "Button Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/card-container-recipe",
+        "title": "Card Container Recipe | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/color-recipes",
+        "title": "Color Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/column-recipes",
+        "title": "Column Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/content-grid-recipe",
+        "title": "Content Grid Recipe | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/custom-property-recipes",
+        "title": "Custom Property Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/divider-recipes",
+        "title": "Divider Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/flex-recipes",
+        "title": "Flex Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/gradient-fades",
+        "title": "Gradient Fades | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/grid-recipes",
+        "title": "Grid Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/ipsum-recipes",
+        "title": "Ipsum Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/javascript-recipes",
+        "title": "Javascript Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/list-recipes",
+        "title": "List Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/media-query-recipes",
+        "title": "Media Query Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/overlap-recipes",
+        "title": "Overlap Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/query-loop-recipes",
+        "title": "Query Loop Recipes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "recipes/text-recipes",
+        "title": "Text Recipes | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "setup",
+    "name": "Setup",
+    "pageCount": 4,
+    "pages": [
+      {
+        "slug": "setup/how-to-install-acss",
+        "title": "How to Install ACSS | Automatic CSS Documentation"
+      },
+      {
+        "slug": "setup/link-classes",
+        "title": "Link Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "setup/pro-mode",
+        "title": "Pro Mode & Classless Workflow | Automatic CSS Documentation"
+      },
+      {
+        "slug": "setup/website-width-breakpoints",
+        "title": "Website Width & Breakpoints | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "shadow-filters",
+    "name": "Shadow Filters",
+    "pageCount": 1,
+    "pages": [
+      {
+        "slug": "shadow-filters/box-shadow-classes",
+        "title": "Box Shadow Classes | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "spacing",
+    "name": "Spacing",
+    "pageCount": 11,
+    "pages": [
+      {
+        "slug": "spacing/contextual-spacing",
+        "title": "Contextual Spacing | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/gap-utilities",
+        "title": "Gap Utilities | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/header-padding-classes",
+        "title": "Header Padding Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/margin-classes",
+        "title": "Margin Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/padding-classes",
+        "title": "Padding Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/section-padding-classes",
+        "title": "Section Padding Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/section-spacing-setup",
+        "title": "Section Spacing Setup | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/section-spacing-variables",
+        "title": "Section Spacing Variables | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/smart-spacing",
+        "title": "Smart Spacing | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/spacing-variables",
+        "title": "Spacing Variables | Automatic CSS Documentation"
+      },
+      {
+        "slug": "spacing/standard-spacing-setup",
+        "title": "Standard Spacing Setup | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "typography",
+    "name": "Typography",
+    "pageCount": 7,
+    "pages": [
+      {
+        "slug": "typography/default-typography-styling",
+        "title": "Default Typography Styling | Automatic CSS Documentation"
+      },
+      {
+        "slug": "typography/fluid-headings",
+        "title": "Fluid Headings | Automatic CSS Documentation"
+      },
+      {
+        "slug": "typography/fluid-text",
+        "title": "Fluid Text | Automatic CSS Documentation"
+      },
+      {
+        "slug": "typography/marker-classes",
+        "title": "Marker Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "typography/text-classes",
+        "title": "Text Classes | Automatic CSS Documentation"
+      },
+      {
+        "slug": "typography/text-heading-line-length",
+        "title": "Text & Heading Line Length | Automatic CSS Documentation"
+      },
+      {
+        "slug": "typography/typography-variables",
+        "title": "Typography Variables | Automatic CSS Documentation"
+      }
+    ]
+  },
+  {
+    "slug": "workflow-enhancements",
+    "name": "Workflow Enhancements",
+    "pageCount": 6,
+    "pages": [
+      {
+        "slug": "workflow-enhancements/auto-bem",
+        "title": "Auto-BEM Builder Enhancement Feature | Automatic CSS Documentation"
+      },
+      {
+        "slug": "workflow-enhancements/bricks-button-ui-compatibility",
+        "title": "Bricks Button UI Compatibility | Automatic CSS Documentation"
+      },
+      {
+        "slug": "workflow-enhancements/prem",
+        "title": "Pixel to Rem Auto-Conversion | Automatic CSS Documentation"
+      },
+      {
+        "slug": "workflow-enhancements/real-time-dashboard",
+        "title": "Real-Time Dashboard | Automatic CSS Documentation"
+      },
+      {
+        "slug": "workflow-enhancements/right-click-context-menu",
+        "title": "Right Click Context Menu | Automatic CSS Documentation"
+      },
+      {
+        "slug": "workflow-enhancements/variable-expansion-validation",
+        "title": "Variable Expansion & Validation | Automatic CSS Documentation"
+      }
+    ]
+  }
+]
