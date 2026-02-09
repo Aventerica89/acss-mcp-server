@@ -1,0 +1,29 @@
+# Source files (publish only compiled dist/)
+src/
+tsconfig.json
+
+# Development files
+.vaporforge/
+*.log
+*.test.ts
+*.spec.ts
+**/__tests__/
+
+# IDE
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Documentation (keep README.md)
+CONTRIBUTING.md
+CHANGELOG.md
+
+# CI/CD
+.github/
+
+# Environment
+.env
+.env.local

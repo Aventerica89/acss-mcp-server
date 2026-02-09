@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "acss-docs": {
+      "command": "node",
+      "args": [
+        "/absolute/path/to/acss-mcp-server/dist/index.js"
+      ]
+    }
+  }
+}
